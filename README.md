@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Benefits of Calisthenic Training
 
-You can use the [editor on GitHub](https://github.com/aden1255/Ztrain/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### What are Calisthenic Excercises?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Calisthenic Excercises are physical movements that require a person to use their muscles to fight against the force of gravity pushing down amongst them. 
 
-### Markdown
+### Basic Types of Movements
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Pull-Ups**, the movement of pulling one's chin over the hands on a bar utilizing the muscles in the user's biceps and back.
 
-```markdown
-Syntax highlighted code block
+![Perfect Pull Up Form](https://mikereinold.com/wp-content/uploads/rookie-mistakes-the-pullup-main.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+**Push-Ups**, the movement of pushing one's body from a fixed position on one's stomach with bent elbows up, straightening them, pushing the body up, utilizing the muscles in the user's pectorals and triceps.
 
-- Bulleted
-- List
+![Perfect Push Up Form](https://upl.stack.com/wp-content/uploads/2012/10/Flex_o001_2_-e1350409352620.jpg)
 
-1. Numbered
-2. List
+**Sit-Ups**, the movement of pulling one's body off the floor at a fixed position on one's back up to where the chest of the person reaches their knees, utilizing the muscles in the abdominals.
 
-**Bold** and _Italic_ and `Code` text
+![Perfect Sit Up Form](https://s3.amazonaws.com/prod.skimble/assets/1424405/image_iphone.jpg)
 
-[Link](url) and ![Image](src)
-```
+Although these are the basic excercises almost everyone can do, their intensity and difficulty can be increased further through their harder variations.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Overall Benefits of Calisthenic Excercises
 
-### Jekyll Themes
+Doing high repetitions of movements like Push-Ups, Sit-Ups, and Pull-Ups cause great fatigue on the body and requires the muscles to build up **Endurance**. Over time with continued excercise the body will be forced to build up the endurance neccessary to continue these movements for higher repetitions and helps increase one's cardiovascular health as performing calisthenic exercises requires compound movements, the utilization of multiple muscles at the same time, which requires much oxygen and blood circulation to achieve. Calisthenics are also great at increasing one's physical **Strength** as, when done correctly, the muscles are pushed until failure, allowing the muscles to break down and micro tears to form. This in turn allows for greater strength to be achieved after the muscle's recovery, as the body will naturally repair the tears of the used muscles however, the repairs will make them stronger and allow the body to adapt to this new strain the muscles are forced on. Calisthenics also build great **Muscle Coordination** as they force the muscles to learn to fire in unison with one another as a compound movement. (Take for example the basic Pull-Up, to perform this movement the muscles are forced to fire the biceps, back, and abdominals at the same time and in coordination with one another creating a compound movement. The abdominals tighten to keep the body stable, while at the same time the biceps pull the hands on the bar down towards them, while the lateral muscles of the back pull on the user's arm to pull the rest of the user's body up.). 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aden1255/Ztrain/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Harder Variations of Basic Movements keep things Interesting
 
-### Support or Contact
+Calisthenic Excercises can always become more challenging through the implementation of their harder variations, which keep people striving to gain strength to perform these feats. Following will be some harder variations of basic calisthenics:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+_Pull Ups_: Archer Pull Ups, Wide Grip Pull Ups, Typewriter Pull Ups, Muscle Ups, One armed Pull Ups
+
+_Push Ups_: Push Ups with arms widened further, Pseudo Planche Push Ups, Tricep Dips, One Handed Push Ups, Handstand Push Ups, Close grip Push Ups
+
+_Sit Ups_: Crunches, Sciccors, 6 Inch Holds, Twist Sit Ups, Leg Raises, Hanging Sit Ups
+
+Here is a list of different [Variations][1] of calisthenic excercises of varying difficulty.
+
+[1]: <https://www.calisthenics-101.co.uk/a-complete-list-of-calisthenics-exercises>
