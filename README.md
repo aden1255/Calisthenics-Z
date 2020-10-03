@@ -1,4 +1,4 @@
-### Calisthenic Excercises
+# Calisthenic Excercises
 
 ## Benefits of Calisthenic Training
 
